@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# reactnative-grudsmv
-📱 Repositório de estudos e projetos da disciplina "Desenvolvimento para Dispositivos Móveis", utilizando React Native.
-=======
 # Desenvolvimento para Dispositivos Móveis 🚀📱
 
 Repositório destinado ao acompanhamento e desenvolvimento das atividades propostas na disciplina **Desenvolvimento para Dispositivos Móveis**, do curso de Análise e Desenvolvimento de Sistemas.
@@ -35,9 +31,11 @@ Repositório destinado ao acompanhamento e desenvolvimento das atividades propos
 ```
 📁 unidade-01/
 📁 unidade-02/
+📁 unidade-03/
 📁 ...
 📁 projeto-final/
 README.md
+LICENSE
 ```
 
 ## 🛠️ Tecnologias Utilizadas
@@ -60,4 +58,3 @@ Este repositório tem como finalidade:
 ---
 
 > _"A melhor maneira de prever o futuro é criá-lo."_ – Peter Drucker
->>>>>>> 9cb3d01 (Estrutura inicial do repositório e projeto PokedexApp na unidade-04)
